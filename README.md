@@ -111,7 +111,7 @@ Deploy using Render or Vercel
 👨‍💻 Author
 
 Mrityunjoy Kumar Deka
-Built with ❤️ using React, TypeScript & Express
+Built using React, TypeScript & Express
 🔗 GitHub Profile
 
 🪪 License
