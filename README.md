@@ -36,9 +36,9 @@ Fully responsive layout (mobile + desktop)
 
 Toast notifications for smooth user experience
 
-```🧩 Folder Structure
+🧩 Folder Structure
 
-mock-ecom-cart/
+```mock-ecom-cart/
 │
 ├── backend/
 │   ├── src/
