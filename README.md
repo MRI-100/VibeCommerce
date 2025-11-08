@@ -36,7 +36,8 @@ Fully responsive layout (mobile + desktop)
 
 Toast notifications for smooth user experience
 
-🧩 Folder Structure
+```🧩 Folder Structure
+
 mock-ecom-cart/
 │
 ├── backend/
@@ -59,7 +60,7 @@ mock-ecom-cart/
 │   ├── package.json
 │   └── tsconfig.json
 │
-└── README.md
+└── README.md'''
 
 🛠️ Setup Instructions
 1️⃣ Clone the repo
